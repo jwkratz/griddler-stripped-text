@@ -1,24 +1,5 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Example Rails app demonstrating how to monkey patch [Griddler](http://griddler.io/) to include [Mailgun's](https://www.mailgun.com/) stripped-text parameter.
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+Full walkthrough: [https://jeremykratz.com/blog/monkey-patching-griddler-to-add-mailgun-properties/](https://jeremykratz.com/blog/monkey-patching-griddler-to-add-mailgun-properties/)
